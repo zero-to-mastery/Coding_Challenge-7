@@ -8,8 +8,11 @@ Please Use the **#coding-challenge** channel to discuss and share your work. At 
 The wonderful submissions from some of the Zero-to-Mastery students on the seventh coding challenge. I have included their Discord handle name so you can talk to them about their submissions!
 
 ZackAndrews#8149
--Github Repo: https://github.com/zZzakaria/SnakeJS
--Github Pages: https://zzzakaria.github.io/SnakeJS
+Github Repo
+https://github.com/zZzakaria/SnakeJS
+Github Pages
+https://zzzakaria.github.io/SnakeJS
+​
 
 Utkarsh#9243
 Github Pages
@@ -50,7 +53,7 @@ Github Repo
 https://github.com/ponchicken/snake
 Github Pages
 https://ponchicken.github.io/snake/
-
+​
 Gabriel Lomba#4008
 Github Pages
 https://gabriellomba.github.io/snake-game/
@@ -64,11 +67,11 @@ Github Repo
 https://github.com/harshakns/harshakns.github.io
 Github Pages
 https://harshakns.github.io/
-
+​
 shummi7#0430
 Github Repo
 https://github.com/shummi7/shummi7.github.io
-
+​
 shummi7#0430
 Github Pages
 https://shummi7.github.io/
@@ -84,7 +87,7 @@ Github Pages
 https://thefewunshaken.github.io/Snake/
 Github Repo
 https://github.com/thefewunshaken/Snake
-
+​
 Ranit Ganguly#6699
 Github Repo
 https://github.com/ronycoder/SnakeGame
