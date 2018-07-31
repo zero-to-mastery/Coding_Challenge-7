@@ -17,7 +17,7 @@ Github Pages
 
 https://zzzakaria.github.io/SnakeJS
 
-​
+
 ----
 Utkarsh#9243
 
@@ -97,7 +97,7 @@ Github Pages
 
 https://ponchicken.github.io/snake/
 
-​
+
 ----
 Gabriel Lomba#4008
 
@@ -125,7 +125,7 @@ Github Pages
 
 https://harshakns.github.io/
 
-​
+
 ----
 shummi7#0430
 
@@ -133,7 +133,7 @@ Github Repo
 
 https://github.com/shummi7/shummi7.github.io
 
-​
+
 ----
 shummi7#0430
 
@@ -165,7 +165,7 @@ Github Repo
 
 https://github.com/thefewunshaken/Snake
 
-​
+
 ----
 Ranit Ganguly#6699
 
@@ -194,6 +194,16 @@ Github Repo
 https://github.com/endurain
 
 
+----
+frozenfroggie#5786
+
+Github Repo
+
+https://github.com/frozenfroggie/Snake
+
+Github Pages
+
+https://frozenfroggie.github.io/Snake/
 
 
 ## What is the Challenge?
