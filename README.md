@@ -101,6 +101,7 @@ https://github.com/Darknov
 Github Repo
 https://github.com/endurain
 
+
 ## What is the Challenge?
 
 Build a snake game! This is a very personal project for me. Back in the day when I first started learning Javascript, I attempted to build a snake game. I couldn't do it. I eventually had to go online and look at other people's solution to see how to do it. After seeing the solutions, I regretted not spending more time thinking logically about the problem and solving it myself... if only I was doing this with a coding buddy....
