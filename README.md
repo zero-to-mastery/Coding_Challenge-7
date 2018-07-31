@@ -8,99 +8,192 @@ Please Use the **#coding-challenge** channel to discuss and share your work. At 
 The wonderful submissions from some of the Zero-to-Mastery students on the seventh coding challenge. I have included their Discord handle name so you can talk to them about their submissions!
 
 ZackAndrews#8149
-Github Repo
-https://github.com/zZzakaria/SnakeJS
-Github Pages
-https://zzzakaria.github.io/SnakeJS
-​
 
-Utkarsh#9243
+Github Repo
+
+https://github.com/zZzakaria/SnakeJS
+
 Github Pages
+
+https://zzzakaria.github.io/SnakeJS
+
+​
+----
+Utkarsh#9243
+
+Github Pages
+
 https://utkarshmalik.github.io/snake_js_game/
 
+
+----
 sivaram pg#8104
+
 Github Repo
+
 https://github.com/SivaramPg/JS_Snake_Game
+
 Github Pages
+
 https://sivarampg.github.io/JS_Snake_Game/
+
 Github Repo
+
 https://github.com/SivaramPg/
+
 Github Repo
+
 https://github.com/ojaswa1942/
 
+
+----
 Sangue#6009
+
 Github Repo
+
 https://github.com/JoaoSangue/snake
+
 Github Pages
+
 https://joaosangue.github.io/snake
+
 Github Repo
+
 https://github.com/JoaoSangue
+
 Github Repo
+
 https://github.com/Jujubarsousa
 
+
+----
 NoodLee#2609
+
 Github Pages
+
 https://here2huynh.github.io/Snake.js/
 
+
+----
 DariaIvK#8877
+
 Github Repo
+
 https://github.com/DariaKoutevska/Snake-Challenge
+
 Author Description
+
 -authors @Xeryan🐜 & @DariaIvK
 
+
+----
 Helvetica#5582
+
 Github Repo
+
 https://github.com/ponchicken/snake
+
 Github Pages
+
 https://ponchicken.github.io/snake/
+
 ​
+----
 Gabriel Lomba#4008
+
 Github Pages
+
 https://gabriellomba.github.io/snake-game/
+
 Github Pages
+
 https://gabriellomba.github.io/snake-game/
+
 Author Description
+
 Repo: Pages: -authors @Gabriel Lomba , @Gospher and @Llade
 
+
+----
 harshakns#3861
+
 Github Repo
+
 https://github.com/harshakns/harshakns.github.io
+
 Github Pages
+
 https://harshakns.github.io/
+
 ​
+----
 shummi7#0430
+
 Github Repo
-https://github.com/shummi7/shummi7.github.io
-​
-shummi7#0430
-Github Pages
-https://shummi7.github.io/
-Github Repo
+
 https://github.com/shummi7/shummi7.github.io
 
-arduino731#6963
+​
+----
+shummi7#0430
+
 Github Pages
+
+https://shummi7.github.io/
+
+Github Repo
+
+https://github.com/shummi7/shummi7.github.io
+
+
+----
+arduino731#6963
+
+Github Pages
+
 https://arduino731.github.io/100daysofcode/codingChallenge7/
 
+
+----
 TheFewUnshaken#8698
+
 Github Pages
+
 https://thefewunshaken.github.io/Snake/
+
 Github Repo
+
 https://github.com/thefewunshaken/Snake
+
 ​
+----
 Ranit Ganguly#6699
+
 Github Repo
+
 https://github.com/ronycoder/SnakeGame
 
+
+----
 Darknov#2643
+
 Github Repo
+
 https://github.com/Darknov/Darknov-Zac-Coding-Challenge-7-Snake
+
 Github Pages
+
 https://darknov.github.io/Darknov-Zac-Coding-Challenge-7-Snake/
+
 Github Repo
+
 https://github.com/Darknov
+
 Github Repo
+
 https://github.com/endurain
+
+
 
 
 ## What is the Challenge?
