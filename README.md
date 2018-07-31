@@ -8,8 +8,8 @@ Please Use the **#coding-challenge** channel to discuss and share your work. At 
 The wonderful submissions from some of the Zero-to-Mastery students on the seventh coding challenge. I have included their Discord handle name so you can talk to them about their submissions!
 
 ZackAndrews#8149
-Github Repo: https://github.com/zZzakaria/SnakeJS
-Github Pages: https://zzzakaria.github.io/SnakeJS
+-Github Repo: https://github.com/zZzakaria/SnakeJS
+-Github Pages: https://zzzakaria.github.io/SnakeJS
 
 Utkarsh#9243
 Github Pages
